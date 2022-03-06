@@ -1,0 +1,12 @@
+amazon:
+  aws:
+    accesskey: YOUR_KEY
+    region: us-east-1
+    secretkey: "YOU_KEY"
+  dynamodb:
+    endpoint: "YOUR_ENDPOINT"
+server:
+  port: 9500
+spring:
+  application:
+    name: springboot-aws-dynamodb
